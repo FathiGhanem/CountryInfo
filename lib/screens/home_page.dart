@@ -49,7 +49,7 @@ class _CountryPageState extends State<CountryPage> {
       if (start) {
         selected = "Select Country";
         start = false;
-        sliderValue = 400;
+        sliderValue = 250;
         _future = null;
         showPop = true;
         showArea = true;
